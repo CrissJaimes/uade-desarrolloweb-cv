@@ -110,7 +110,7 @@ footer{
 
 .btn-nav:hover{
     width: 250px;
-    height: 60px;
+    height: 50px;
     color: aliceblue;
 }
 
@@ -213,8 +213,8 @@ footer{
     }
 
     .btn-nav:hover{
-        width: 170px;
-        height: 55px;
+        width: 160px;
+        height: 40px;
     }
 
 
